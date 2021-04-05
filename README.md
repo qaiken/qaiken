@@ -1,1 +1,1 @@
-<img alt="Quinton Coding" src="https://i.imgur.com/ebnvXDz.gif" width="100%">
+<img alt="Welcome to the Internet" src="https://i.giphy.com/media/zhbrTTpmSCYog/source.gif" width="100%">
